@@ -84,7 +84,7 @@ Released under the MIT License (see `LICENSE`).
 ## Citation
 
 If you use this code, please cite the paper above. A citable archive of this
-repository is available on Zenodo: https://doi.org/10.5281/zenodo.XXXXXXX
+repository is available on Zenodo: https://doi.org/10.5281/zenodo.21420487 
 (replace with the DOI minted at release).
 
 ## Contact
